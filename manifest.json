@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Playlist Proxy - Anonymized playlist",
+    "description": "Creates an anonymized version of a playlist to share with your online friends without revealing your identity.",
+    "preview": "assets/screenshot.png",
+    "main": "PlaylistProxy.js",
+    "readme": "README.md",
+    "authors": [
+        { "name": "Ola Kanten", "url": "https://github.com/okanten" }
+    ],
+    "tags": ["playlist anonymizer", "anonymizer", "playlistproxy.net"]
+  }
+]
