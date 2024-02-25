@@ -1,5 +1,9 @@
 # PlaylistProxy
 
+<p>
+    <img src="assets/preview.png" width="350" />
+</p>
+
 A spicetify extension for [playlistproxy.net](https://playlistproxy.net/)
 
 Spotify has no official way to share your favorite playlist without revealing your (online) identity. This spicetify plugin utilizes playlistproxy.net to create an anonymous dupe of your playlist of choice to share with online strangers.

@@ -2,7 +2,7 @@
   {
     "name": "Playlist Proxy - Anonymized playlist",
     "description": "Creates an anonymized version of a playlist to share with your online friends without revealing your identity.",
-    "preview": "assets/screenshot.png",
+    "preview": "assets/preview.png",
     "main": "PlaylistProxy.js",
     "readme": "README.md",
     "authors": [
