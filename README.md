@@ -1,5 +1,10 @@
 # PlaylistProxy
 
+> [!WARNING]
+> **Service Discontinued**
+>
+> See https://github.com/okanten/playlistproxy.net
+
 <p>
     <img src="assets/preview.png" width="350" />
 </p>
